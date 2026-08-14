@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **IoT based Patient Monitoring System**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-z2kl.onrender.com/](https://my-portfolio-z2kl.onrender.com/)
 
